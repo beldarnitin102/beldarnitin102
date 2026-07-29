@@ -1,127 +1,109 @@
 <div align="center">
 
-# ⚡ N.I.T.I.N Protocol Activated
+# <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="40"> NITIN.exe
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Welcome+to+Stark+Industries;Full+Stack+Developer;AI+%7C+Machine+Learning+Engineer;Building+AI-Powered+Applications;Always+Learning+Something+New..." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=950&lines=Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;MERN+Stack+Developer;Building+Intelligent+Applications;Welcome+to+my+GitHub!" />
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="320"/>
-
-### ⚡ "Sometimes you gotta run before you can walk." — Tony Stark
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00CFFF,100:0D1117&height=240&section=header&text=NITIN&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20MERN%20Stack&descAlignY=60"/>
 
 </div>
 
----
 
-# 🛡️ About Me
 
-```yaml
-Name        : Nitin
-Role        : Full Stack Developer
-Education   : B.Tech CSE (AIML)
-Location    : India
+# ⚙ TECH ARSENAL
 
-Specialization:
-  - MERN Stack
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
+## 🎨 Frontend
 
-Mission:
-  Build intelligent software that solves real-world problems.
-```
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=html"/>
 
-# ⚡ JARVIS SYSTEM STATUS
+<img src="https://skillicons.dev/icons?i=css"/>
 
-```text
-████████████████████████████████
+<img src="https://skillicons.dev/icons?i=js"/>
 
-JARVIS CORE ............. ONLINE
+<img src="https://skillicons.dev/icons?i=react"/>
 
-React.js ............... ██████████████ 95%
+<img src="https://skillicons.dev/icons?i=nextjs"/>
 
-Node.js ................ █████████████ 92%
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 
-Express.js ............. █████████████ 92%
-
-MongoDB ................ ████████████ 90%
-
-Python ................. ███████████ 88%
-
-Machine Learning ....... ██████████ 84%
-
-Deep Learning .......... █████████ 82%
-
-Generative AI .......... █████████ 80%
-
-Problem Solving ........ ███████████ 88%
-
-System Status .......... OPERATIONAL
-
-████████████████████████████████
-```
-
----
-
-# 💻 Tech Arsenal
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,fastapi,java,cpp,js,html,css,tailwind,git,github,vscode,docker,postman,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=vite"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## ⚙ Backend
 
-## 🛡️ District Grievance Portal
+<p>
 
-> AI-powered complaint management platform
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 
-- 🤖 Gemini AI
-- 🌐 React
-- ⚙️ Node.js
-- 🍃 MongoDB
+<img src="https://skillicons.dev/icons?i=express"/>
 
----
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 
-## 🎓 SkillBridge
-
-> AI-powered learning ecosystem
-
-- Course Generator
-- AI Quiz Generator
-- Learning Dashboard
-- Certificates
+</p>
 
 ---
 
-## 🤖 SkillScope
+## 🗄 Database
 
-> AI Resume Analyzer
+<p>
 
-- ATS Score
-- Resume Feedback
-- AI Suggestions
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 
----
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-## 🔥 ThreatLens
-
-> AI Malware Detection System
-
-- Machine Learning
-- Threat Classification
-- Security Dashboard
+</p>
 
 ---
 
-# 📊 GitHub Analytics
+## 💻 Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+</p>
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge"/>
+
+</p>
+
+---
+
+
+## 🛠 Development Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+
+</p>
+
+
+# 📊 PERFORMANCE METRICS
 
 <div align="center">
 
@@ -129,89 +111,149 @@ System Status .......... OPERATIONAL
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
 </div>
-
----
-
-# 📈 Contribution Graph
-
-[![Jhon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🎯 Current Mission
-
-```text
-MISSION OBJECTIVES
-
-✔ Master System Design
-
-✔ Become AI Engineer
-
-✔ Build SaaS Products
-
-✔ Contribute to Open Source
-
-✔ Learn Docker & Kubernetes
-
-✔ Learn AWS
-
-✔ Solve 500+ DSA Problems
-
-Status:
-MISSION ACTIVE
-```
-
----
-
-# ⚡ Currently Exploring
-
-- 🤖 Generative AI
-- 🧠 Deep Learning
-- ☁️ Cloud Computing
-- 🐳 Docker
-- ☸ Kubernetes
-- ⚙️ System Design
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<br>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
-<br>
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-## ⚡ Powered by Stark Industries ⚡
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-"Engineering the future, one commit at a time."
+</div>
+
+
+
+# 🚀 MISSION ARCHIVE
+
+<div align="center">
+
+*"Every project is another mission completed."*
+
+</div>
+
+---
+
+## 🛡 Mission 01 — District Grievance Portal
+
+> **AI-Powered Smart Complaint Management System**
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=District-Grievance-Portal&theme=tokyonight"/>
+
+### ⚡ Highlights
+
+- 🤖 AI Complaint Classification
+- 🧠 Gemini-powered Analysis
+- 📍 Smart Department Prediction
+- 🌐 Citizen & Admin Portal
+- 📧 Email Notifications
+- 📊 Analytics Dashboard
+
+**Tech Stack**
+
+`React` `Node.js` `Express` `MongoDB` `Grok AI`
+
+<br clear="right"/>
+
+---
+
+## 🎓 Mission 02 — SkillBridge
+
+> **AI Learning Management Platform**
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SkillBridge&theme=tokyonight"/>
+
+### ⚡ Features
+
+- AI Course Generator
+- Quiz Generator
+- Project Suggestions
+- Student Dashboard
+- Instructor Dashboard
+- Certificates
+
+**Tech Stack**
+
+`React` `Node.js` `MongoDB` `Cohere & Grok  API`
+
+<br clear="right"/>
+
+---
+
+## 🤖 Mission 03 — SkillScope
+
+> **AI Resume Analyzer**
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=SkillScope&theme=tokyonight"/>
+
+### Features
+
+- ATS Resume Score
+- AI Resume Review
+- Skill Suggestions
+- Career Insights
+
+**Tech Stack**
+
+`React` `Express` `MongoDB` `Gemini API`
+
+<br clear="right"/>
+
+---
+
+## 🔥 Mission 04 — ThreatLens
+
+> **AI Malware Detection System**
+
+<img align="right" width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ThreatLens&theme=tokyonight"/>
+
+### Features
+
+- Malware Classification
+- ML Models
+- Threat Dashboard
+- Security Analytics
+
+**Tech Stack**
+
+`Python` `TensorFlow` `React`
+
+<br clear="right"/>
+
+---
+
+# 📈 CONTRIBUTION ANALYTICS
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/nitin-beldar-022240333?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
+<a href="beldarnitin845@gmail.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
+</a>
+
+
+</div>
+
+
+### Thanks for visiting my profile.
+
+### ⭐ If you like my work, consider following me and starring my repositories.
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00CFFF&center=true&width=700&lines=Keep+Learning.;Keep+Building.;Keep+Improving.;See+You+Again!"/>
 
 </div>
