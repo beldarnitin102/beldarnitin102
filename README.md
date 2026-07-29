@@ -194,11 +194,12 @@ MISSION ACTIVE
 <a href="YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+<br>
 
 <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
 </a>
-
+<br>
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge"/>
 </a>
